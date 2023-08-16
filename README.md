@@ -1,6 +1,8 @@
 # kelp-finder
 CNN to identify kelp cover from satellite imagery from NASA's open-source LANDSAT dataset
 
+Project Developers - Kanhai Wadekar and Pranav Walimbe
+
 provided:
 - CNN code in "model.py"
 - training data of 300+ multispectral images in "train.zip"
